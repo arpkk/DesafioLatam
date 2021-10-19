@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb85d499-8d1d-45cf-92c7-9f46eccd2d50" name="Default Changelist" comment="Agregado el desafio opcional" />
+    <list default="true" id="cb85d499-8d1d-45cf-92c7-9f46eccd2d50" name="Default Changelist" comment="Agregado el desafio de ciclos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio/lorem_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio/lorem_generator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +92,7 @@
       <workItem from="1633387205522" duration="2964000" />
       <workItem from="1633391236104" duration="5108000" />
       <workItem from="1633565477396" duration="546000" />
-      <workItem from="1634508808103" duration="3624000" />
+      <workItem from="1634508808103" duration="9000000" />
     </task>
     <task id="LOCAL-00001" summary="Agregado diagrama de flujo, juego.py y ejercicios">
       <created>1633395428998</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633558497720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Agregado el desafio de ciclos">
+      <created>1634513635045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634513635045</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregado diagrama de flujo, juego.py y ejercicios" />
     <MESSAGE value="Agregado el desafio opcional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregado el desafio opcional" />
+    <MESSAGE value="Agregado el desafio de ciclos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregado el desafio de ciclos" />
   </component>
 </project>
