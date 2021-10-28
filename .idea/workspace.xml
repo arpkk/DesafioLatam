@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb85d499-8d1d-45cf-92c7-9f46eccd2d50" name="Default Changelist" comment="Agregado el desafio de ciclos">
+    <list default="true" id="cb85d499-8d1d-45cf-92c7-9f46eccd2d50" name="Default Changelist" comment="desafio funciones y listas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio/lorem_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio/lorem_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,9 @@
       <workItem from="1633387205522" duration="2964000" />
       <workItem from="1633391236104" duration="5108000" />
       <workItem from="1633565477396" duration="546000" />
-      <workItem from="1634508808103" duration="9000000" />
+      <workItem from="1634508808103" duration="16583000" />
+      <workItem from="1635120259803" duration="174000" />
+      <workItem from="1635203260450" duration="14664000" />
     </task>
     <task id="LOCAL-00001" summary="Agregado diagrama de flujo, juego.py y ejercicios">
       <created>1633395428998</created>
@@ -115,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1634513635045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix lorem_generator.py">
+      <created>1634638239525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634638239525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="letra_x y menu_banco">
+      <created>1634781570845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634781570845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="desafio funciones y listas">
+      <created>1635384089588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635384089588</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +159,9 @@
     <MESSAGE value="Agregado diagrama de flujo, juego.py y ejercicios" />
     <MESSAGE value="Agregado el desafio opcional" />
     <MESSAGE value="Agregado el desafio de ciclos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregado el desafio de ciclos" />
+    <MESSAGE value="Fix lorem_generator.py" />
+    <MESSAGE value="letra_x y menu_banco" />
+    <MESSAGE value="desafio funciones y listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio funciones y listas" />
   </component>
 </project>
